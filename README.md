@@ -1,3 +1,3 @@
 # apnacollege
 This is repo
-Jatin's repo
+Author Jatin's repo
